@@ -2,5 +2,5 @@
 
 
 
-the data was manually collected and hence is low in quantity. 
+the data was manually collected and hence is low in quantity, 
 the model can thus be improved by increasing the data set size.
